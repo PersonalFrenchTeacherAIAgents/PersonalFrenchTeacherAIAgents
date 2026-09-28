@@ -44,3 +44,12 @@ Deep Tech Inventor — Quantum Excellium Marango
 - Sports AI: https://sports.personalfrenchteacher.tech
 
 > Public repositories intentionally avoid enabling proprietary implementation details.
+
+## Proof
+- Verify an attestation issued by a PFT agent, offline, in one command: [pft-attestation-verify](https://github.com/PersonalFrenchTeacherAIAgents/pft-attestation-verify).
+- PFT agents run on the [QEC Local Core](https://github.com/Quantum-Architecture) (Quantum Excellium): the learner's
+  text never enters the audit ledger — only hashes; LLM spend is bounded; no network egress unless you opt in (BYOK).
+- Limits, in writing: PFT attestations are attestations of a language-and-communication programme completed under
+  protocol. They are not official certifications, diplomas, medical or sports qualifications.
+
+Personal French Teacher is a product line of Quantum Excellium L.L.C. (Wyoming) — https://quantumexcellium.com
